@@ -1,2 +1,2 @@
-# Stm32F103C6T6A
+# Stm32F10
 Low level Stm32F1 Series 
